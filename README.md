@@ -81,7 +81,7 @@ Primary keys and foreign keys are used to maintain data integrity and model rela
 
 ## 📁 Project Structure
 
-
+```text
 Brazilian E-Commerce Analytics/
 │
 ├── README.md
@@ -107,7 +107,7 @@ Brazilian E-Commerce Analytics/
 │
 └── dashboard/
     └── Future Power BI dashboard files
-
+```
 
 *Some folders and SQL files listed above are planned and will be added as development progresses.*
 
@@ -255,7 +255,7 @@ Please refer to the original dataset page for its terms of use and attribution r
 
 ## 👨‍💻 Author
 
-N K Vagish
+**N K Vagish**
 
 Third-year Artificial Intelligence and Machine Learning student, building practical database and analytics projects to strengthen SQL, data analysis, and problem-solving skills.
 
