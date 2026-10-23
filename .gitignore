@@ -1,0 +1,10 @@
+# Raw datasets
+data/*.csv
+
+# Power BI temporary or backup files
+*.tmp
+*.bak
+
+# OS-generated files
+Thumbs.db
+.DS_Store
